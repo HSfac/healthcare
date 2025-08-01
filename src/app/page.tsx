@@ -158,7 +158,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-gray-700 text-lg mb-4 leading-relaxed">
-                "20년 동안 청력 문제로 고생했는데, 여기서 맞춤 보청기를 받고 완전히 새로운 세상을 경험했습니다. 정말 감사합니다."
+                &ldquo;20년 동안 청력 문제로 고생했는데, 여기서 맞춤 보청기를 받고 완전히 새로운 세상을 경험했습니다. 정말 감사합니다.&rdquo;
               </p>
               <div className="border-t pt-4">
                 <p className="font-semibold text-gray-900">김○○님 (65세)</p>
@@ -174,7 +174,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-gray-700 text-lg mb-4 leading-relaxed">
-                "직원분들이 정말 친절하고 전문적이에요. 사후관리도 꼼꼼하게 해주셔서 믿고 맡길 수 있습니다."
+                &ldquo;직원분들이 정말 친절하고 전문적이에요. 사후관리도 꼼꼼하게 해주셔서 믿고 맡길 수 있습니다.&rdquo;
               </p>
               <div className="border-t pt-4">
                 <p className="font-semibold text-gray-900">박○○님 (58세)</p>
@@ -190,7 +190,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-gray-700 text-lg mb-4 leading-relaxed">
-                "청력 검사부터 보청기 피팅까지 모든 과정이 체계적이고 만족스러웠습니다. 강력 추천합니다!"
+                &ldquo;청력 검사부터 보청기 피팅까지 모든 과정이 체계적이고 만족스러웠습니다. 강력 추천합니다!&rdquo;
               </p>
               <div className="border-t pt-4">
                 <p className="font-semibold text-gray-900">이○○님 (72세)</p>
